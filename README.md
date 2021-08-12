@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Website](http://img.shields.io/badge/jiaruiqin.me-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://jiaruiqin.me)](https://jiaruiqin.me)
 
-- I'm currently a Ph.D. student majoring in Computer Science [@ApexLab](https://apex.sjtu.edu.cn/) of Shanghai Jiao Tong University.
+- I'm currently a Ph.D. student majoring in Computer Science [@ApexLab](http://apex.sjtu.edu.cn/) of Shanghai Jiao Tong University.
 - My research interests include recommender system and information retrieval.
 - I'm interested in cloud-native technologies.
 
