@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 - I'm currently a Ph.D. student majoring in Computer Science [@ApexLab](http://apex.sjtu.edu.cn/) of Shanghai Jiao Tong University.
 - My research interests include recommender system and information retrieval.
+- On the job market this year (Graduate in 2024.6 (expected)).
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=qinjr&show_icons=true&theme=graywhite)
