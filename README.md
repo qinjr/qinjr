@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Website](http://img.shields.io/badge/jiaruiqin.me-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://qinjr.github.io)](https://qinjr.github.io)
+[![Website](http://img.shields.io/badge/qinjr.github.io-FF4088?style=flat-square&logo=Hugo&logoColor=white&link=https://qinjr.github.io)](https://qinjr.github.io)
 
 - I'm currently a Ph.D. student majoring in Computer Science [@ApexLab](http://apex.sjtu.edu.cn/) of Shanghai Jiao Tong University.
 - My research interests include recommender system and information retrieval.
